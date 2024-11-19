@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I am Michael Awah!
+- 🔭 Frontend Developer. Currently working with iASol Enterprises on Fintech solutions
+- 🧰 I use `React`
+- 🌱 I’m currently learning `TypeScript`, `React/Nextjs`, `ReactQuery`, `RadixUi`
 
 <!--
 **MichaelAAwah/MichaelAAwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
