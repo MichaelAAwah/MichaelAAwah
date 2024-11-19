@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Michael Awah!
-- 🔭 Frontend Developer. Currently working with iASol Enterprises on Fintech solutions
+- 🔭 Frontend Developer. Currently working on Fintech solutions.
 - 🧰 I use `React`, `TailwinCSS`, `Bootstrap` and more.
 - 🌱 I’m currently learning `TypeScript`, `React/Nextjs`, `ReactQuery`, `RadixUi`
 
