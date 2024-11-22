@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | JavaScript | Reactjs | Nextjs | TypeScript
 ---------------------------------------------------------------
 
-🔭 Frontend Developer. Currently working on Fintech solutions. 🧰 I use React, TailwinCSS, Bootstrap and more. 🌱 I’m currently learning TypeScript, React/Nextjs, ReactQuery, RadixUi
+🔭 Frontend Developer. Currently working on Fintech solutions. 
+- 🔭 Frontend Developer. Currently working on Fintech solutions.
+- 🧰 I use `React`, `TailwinCSS`, `Bootstrap` and more.
+- 🌱 I’m currently learning `TypeScript`, `React/Nextjs`, `ReactQuery`, `RadixUi`
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [awahmichael441@gmail.com](mailto:awahmichael441@gmail.com)
